@@ -1,0 +1,26 @@
+{
+    "name": "root/notification",
+    "description": "This is a library that uses composer as the basis for generating email notifications",
+    "type": "library",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Maciel Salzano",
+            "email": "macielsalzano@gmail.com",
+            "homepage": "https://www.upinside.com.br",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "6.4.1"
+    },
+    "config": {
+        "vendor-dir": "lib_ext"
+    },
+    "autoload": {
+        "psr-4": {
+            "Notification\\": "_app"
+        }
+    }
+}
