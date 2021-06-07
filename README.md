@@ -5,7 +5,7 @@ This library has the function to send email using the phpmailer library. Making 
 To install the library, run the following command:
 
 ```sh
-composer require gustavoweb/composer_test
+composer require gustavoweb/composer_teste
 ```
 
 To make use of the library, just require composer autoload, invoke the class and call the method:
