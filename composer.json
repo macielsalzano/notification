@@ -1,5 +1,5 @@
 {
-    "name": "root/notification",
+    "name": "macielsalzano/notification",
     "description": "This is a library that uses composer as the basis for generating email notifications",
     "type": "library",
     "license": "Mit",
