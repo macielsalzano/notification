@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/phpstorm,linux,composer
 # Edit at https://www.toptal.com/developers/gitignore?templates=phpstorm,linux,composer
 
-_app/Config.php
+web/index.php
 
 ### Composer ###
 composer.phar
