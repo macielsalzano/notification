@@ -2,7 +2,7 @@
     "name": "macielsalzano/notification",
     "description": "This is a library that uses composer as the basis for generating email notifications",
     "type": "library",
-    "license": "Mit",
+    "license": "MIT",
     "authors": [
         {
             "name": "Maciel Salzano",
