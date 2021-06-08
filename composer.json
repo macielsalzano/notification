@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "phpmailer/phpmailer": "6.4.1"
+        "phpmailer/phpmailer": "^6.2"
     },
     "config": {
         "vendor-dir": "lib_ext"
