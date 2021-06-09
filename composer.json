@@ -10,7 +10,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "phpmailer/phpmailer": "^6.2"
     },
